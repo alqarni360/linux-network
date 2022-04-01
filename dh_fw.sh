@@ -1,3 +1,5 @@
+#! usr/bin/bash
+
 echo $(whoami)
 echo $(systemctl enable dhcpd.service)
 echo $(systemctl start dhcpd.service)
