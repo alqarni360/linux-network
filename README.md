@@ -1,2 +1,2 @@
-# linux-bash-scripting for auto config servers & os
-for proffsore James class
+# linux networking class 
+proffsore James 
